@@ -8,6 +8,11 @@
         app:showAsAction="never" />
 
     <item
+        android:id="@+id/menu_export_to_file"
+        android:title="@string/export_to_file"
+        app:showAsAction="never" />
+
+    <item
         android:id="@+id/menu_share_results"
         android:title="@string/submit_results"
         app:showAsAction="never" />
